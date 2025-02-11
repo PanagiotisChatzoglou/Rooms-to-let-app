@@ -1,5 +1,5 @@
 import SignupForm from "../features/authentication/SignupForm.jsx";
-import Heading from "../ui/Heading";
+import Heading from "../ui/Heading.jsx";
 
 function NewUsers() {
   return (
