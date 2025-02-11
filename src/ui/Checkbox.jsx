@@ -25,6 +25,7 @@ const StyledCheckbox = styled.div`
   }
 `;
 
+//fixed named import
 function CheckBox({ checked, onChange, disabled = false, id, children }) {
   return (
     <StyledCheckbox>
